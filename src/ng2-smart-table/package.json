@@ -1,7 +1,7 @@
 {
-  "name": "ng2-smart-table",
-  "version": "1.3.4",
-  "description": "Angular Smart Table",
+  "name": "@egt-ukraine/ng2-smart-table",
+  "version": "1.3.5",
+  "description": "Forked Angular Smart Table",
   "main": "./bundles/table.umd.js",
   "module": "./index.js",
   "typings": "./index.d.ts",
