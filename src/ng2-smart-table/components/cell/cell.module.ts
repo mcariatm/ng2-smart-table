@@ -1,7 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
-import { Ng2CompleterModule } from 'ng2-completer';
 
 import { CellComponent } from './cell.component';
 import { CustomEditComponent } from './cell-edit-mode/custom-edit.component';
@@ -33,7 +32,6 @@ const CELL_COMPONENTS = [
   imports: [
     CommonModule,
     FormsModule,
-    Ng2CompleterModule,
   ],
   declarations: [
     ...CELL_COMPONENTS,

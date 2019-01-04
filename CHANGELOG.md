@@ -1,3 +1,7 @@
+<a name="1.3.6"></a>
+
+* ng2-completer got removed
+
 <a name="1.3.4"></a>
 ## [1.3.4](https://github.com/akveo/ng2-smart-table/compare/v1.3.3...v1.3.4) (2018-06-28)
 
